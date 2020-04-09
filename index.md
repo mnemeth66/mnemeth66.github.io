@@ -1,10 +1,8 @@
 ---
 layout: home
 ---
-# About Theme
+# about me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hey! I'm Matthew Nemeth, currently an undergraduate at UC Berkeley studying Bioengineering and Computer Science. I'm interested in medicine and am a **huge** water polo fan (one who's lucky enough to have bumped into Dénes Varga in an airport). If you want, you can check out my [LinkedIn](https://www.linkedin.com/in/matthewnemeth6).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+This website is mostly going to serve as a thought dump, where I'm going to share interesting things I've read, heard, or thought about. Welcome and have a look around!
