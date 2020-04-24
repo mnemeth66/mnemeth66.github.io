@@ -455,10 +455,15 @@ canvas {
       width: 50px;
       height: auto;
     }
-    &:after {
-      display: none;
-    }
   }
+  .logo-text {
+    top: -5px;
+    left: 70px;
+    position: absolute;
+    font-size: 12px;
+    color:black;
+  }
+
 }
 
 .section-title {
@@ -593,7 +598,7 @@ canvas {
     position: relative;
     left: auto;
     bottom: auto;
-    font-size: 80px;
+    font-size: 60px;
   }
   .tags > li {
     background: none;

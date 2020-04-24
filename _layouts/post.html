@@ -10,6 +10,7 @@ layout: compress
     <div class="block-left">
       <div class="content">
         <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo }}"></a>
+        <h4 class="logo-text"> &ltclick on me to go home </h4>
         <div class="post-title-section">
           <div class="section-line">Posts <em>/</em></div>
           <h1 class="section-title">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
@@ -26,9 +27,6 @@ layout: compress
     </div>
 
     <div class="block-right">
-      <div class="share-buttons">
-        {% comment %} {% include share.html %} {% endcomment %}
-      </div>
       <a href="../posts.html" title="posts" class="posts-menu-icon"></a>
       {% comment %} <a title="projects" class="projects-menu-icon">
         <span></span>
@@ -37,7 +35,6 @@ layout: compress
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}
         <br>
-        {% comment %} {% include share.html %} {% endcomment %}
         {% include page-pagination.html %}
       </div>
     </div>
