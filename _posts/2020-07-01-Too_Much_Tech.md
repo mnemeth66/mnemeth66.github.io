@@ -22,7 +22,7 @@ Now, transit oriented development (TOD). I was recently introduced to this idea,
 I don't know what the solutions are to create better realities for ourselves without destroying ourselves in the process. We have changed the Earth so much since evolving from apes. But have we created and relied on too much tech for our own good? I sure hope not. 
 
 
-> Sidenote: I think I'm going to change up the way I'm addressing this blog. I'm not a teacher; I am forever a student, learning and thinking and adapting my frames of view. This is really just a compilation of my thoughts, which are not fixed, and therefore is not material for teaching, but rather, discussing. When I write, I feel like I'm having a fireside chat. 
+> Sidenote: I think I'm going to change up the way I'm addressing this blog. I'm not a teacher; I am forever a student, learning and thinking and adapting my frames of view. This is really just a compilation of my thoughts, which are not fixed, and therefore is not material for teaching, but rather, discussing. When I write, I feel like I'm having a fireside chat. So...
 
 See you by the fire.
 
