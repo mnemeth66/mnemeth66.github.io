@@ -17,9 +17,11 @@ While I can't say what thresholds should be made for legal issues, as there shou
 
 Of course, that approach isn't applicable in many cases. In a recent group project, we had to teach a computer to learn and predict the phases of the moon. Here's a tricky question: what amount of light will make a waxing crescent into a first quarter moon? ![moon phases for reference](https://c.tadst.com/gfx/600x337/moon-phases-explained.png?1) The approach above would be akin to asking myself whether or not I should be distinguishing different phases of the moon even helps me at all. The anser to that is that we have those phases to describe the moon qualitatively, for fun or for keeping track of the lunar cycle as a measure of time. And having answered that, we have gotten no further in answering our first question.
 
-Quantifying vague concepts is hard! But someitmes it's relevant to our lives. Hope this was fun and a cool way to think about some aspects of our lives differently.
+Quantifying vague concepts is hard! But sometimes it's really relevant to our lives. Hope this was fun and a cool way to think about some aspects of our lives differently.
 
 Until next time.
+
 See you by the Fire.
+
 M
 
