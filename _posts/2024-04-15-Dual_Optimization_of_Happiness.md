@@ -31,6 +31,5 @@ For a long time I have been trying to harness the Self-control framework - to __
 
 In other words, towards optimizing my decision making, I have found it easier to maximize my fulfillment (the dual), rather than minimize for my regret (the primal). In hindsight, it seems clear why - there's a lot more meaning in optimizing how fulfilling, beautiful, and happy my life is than there is optimizing the number of times I feel regretful after binging youtube.
 
-test for math: $E=mc^2$
 
-Here's to more fulfilling and joyful lives.
+Here's to a more fulfilling and joyful life
